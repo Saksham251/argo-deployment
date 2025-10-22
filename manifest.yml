@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: application-image
-    image: saksham251/application:bbf6af349acec9111c350562b0412ca75445f34f
+    image: saksham251/application:33371c2759e9749a150b0d160824340871b66f7d
     ports:
     - containerPort: 80
 # ---
